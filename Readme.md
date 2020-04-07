@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Ксения Косыгина](https://up.htmlacademy.ru/adaptive/19/user/1051527).
-* Наставник: `Неизвестно`.
+* Наставник: `Попробую самостоятельно`.
 
 ---
 
